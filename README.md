@@ -32,4 +32,4 @@ To make HR compliance accessible, actionable, and aligned with the values of ope
 
 ### 📬 Want to connect?
 
-Feel free to open an issue, suggest improvements, or reach out via [LinkedIn](www.linkedin.com/in/briana-builds-culture)
+Feel free to open an issue, suggest improvements, or reach out via [LinkedIn] (https://www.linkedin.com/in/briana-builds-culture/)
