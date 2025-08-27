@@ -1,0 +1,58 @@
+# Contractor vs Employee Checklist  
+*A compliance-first resource for open source contributors, engineers, and U.S. employers navigating the 1099 vs. W-2 line.*
+
+---
+
+## 💡 Why This Matters
+In the OSS and tech community, contributors are often engaged under the wrong classification.  
+This checklist provides **practical guidance** to help determine whether a role is truly **independent contractor (1099)** or should be an **employee (W-2)**.
+
+Misclassification leads to:
+- 🚨 Legal penalties & fines for employers
+- 💸 Lost benefits, wages, and protections for contributors
+- 📉 Risk for startups and OSS projects relying on global talent
+
+---
+
+## ✅ U.S. Compliance Checklist
+
+### 1. Behavioral Control  
+- [ ] Does the company dictate **how** work is performed (methods, tools, schedules)?  
+- [ ] Is training provided like to an employee?  
+- [ ] Are required tools/equipment provided by the company?  
+
+### 2. Financial Control  
+- [ ] Is the individual paid hourly/salary (employee) vs. per project (contractor)?  
+- [ ] Can they realize a profit/loss from the work?  
+- [ ] Do they market their services to other clients?  
+
+### 3. Relationship of the Parties  
+- [ ] Is there an ongoing, indefinite relationship?  
+- [ ] Are benefits offered (insurance, PTO, retirement)?  
+- [ ] Is the work a **core part of the business**?  
+
+👉 If most boxes are checked “yes,” classification leans **Employee (W-2)**.  
+👉 If most are “no,” classification may be **Contractor (1099)**.  
+
+---
+
+## 🌍 Global Notes
+Classification rules vary:  
+- **EU** → Default leans toward employee protections unless independence is clear.  
+- **Canada** → Similar tests: control, ownership of tools, profit/loss risk.  
+- **India** → Contractors common, but long-term exclusive relationships trigger employee status.  
+
+(Contributions welcome to expand by country/region.)
+
+---
+
+## 📢 Contributing
+This is a living document. Please help keep it current by:  
+- Adding **state-specific rules** (e.g., California ABC Test)  
+- Expanding **international sections**  
+- Submitting **examples or case studies** from OSS  
+
+---
+
+## ⚖️ Disclaimer
+This checklist is **for educational purposes only** and does not replace professional HR or legal counsel. Always verify classification decisions with a qualified advisor.
